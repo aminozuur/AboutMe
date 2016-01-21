@@ -2,9 +2,7 @@
 
 # A brief introduction to Amin Eftegarie
 
-Hello there,
-
-Thanks for tuning in. **Let's start with some basics:**
+**Let's start with some basics:**
 * Name: Amin Eftegarie
 * Location: Amsterdam (suburbs)
 * Age: 26
@@ -17,5 +15,6 @@ Thanks for tuning in. **Let's start with some basics:**
 
 I have some goals. **I want to:**
 * Create a popular webapp
-* 
 * [make the world a better place](https://youtu.be/J-GVd_HLlps?t=34s)
+* Shine light on underrated things and people
+* Free people from dogma using calm socratic conversation
