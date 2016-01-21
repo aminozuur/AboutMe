@@ -34,6 +34,7 @@
 
 **Trivia**
 * My username everywhere is 'aminozuur', which means amino acid in Dutch
+* I have a strange interest for words and definitions
 * I am incapable of small talk
 * I exerpience above average connection with people who have experienced childhood trauma, or overcame obstacles during teenage years
 
