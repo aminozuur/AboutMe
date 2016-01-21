@@ -29,3 +29,8 @@
 
 **Favorite quote:**
 *"I currently don'thave a favorite quote"* - Amin Eftegarie (2016)
+
+**Contact me:***
+* [Email](mailto:amin@eftegarie.nl)
+* [Twitter](http://twitter.com/aminozuur)
+* [More options](http://amineftegarie.nl/contact)
