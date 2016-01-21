@@ -11,10 +11,20 @@
 * Sleep
 * Web development
 * Human Interface Design
-* Talking to cyberfriends (mostly programmers, learners and sceptics) 
+* Talking to cyberfriends
 
-I have some goals. **I want to:**
+**My goals are to**
 * Create a popular webapp
-* [make the world a better place](https://youtu.be/J-GVd_HLlps?t=34s)
+* [Make the world a better place](https://youtu.be/J-GVd_HLlps?t=34s)
 * Shine light on underrated things and people
 * Free people from dogma using calm socratic conversation
+
+**Meanwhile I try to**
+* Live ethically
+* Keep my word
+* Have high integrity
+* Promote peace
+* Bash the government
+
+**Favorite quote:**
+*"I currently don'thave a favorite quote"* - Amin Eftegarie (2016)
