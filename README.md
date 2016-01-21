@@ -11,6 +11,7 @@
 * Sleep
 * Web development
 * Human Interface Design
+* Building random tiny webapps
 * Talking to cyberfriends
 
 **My goals are to**
