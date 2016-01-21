@@ -16,7 +16,7 @@
 
 **My goals are to**
 * Create a popular webapp
-* [Make the world a better place](https://youtu.be/J-GVd_HLlps?t=33s)
+* [Make the world a better place](https://youtu.be/J-GVd_HLlps?t=31s)
 * Shine light on underrated things and people
 * Free people from dogma using calm socratic conversation
 
