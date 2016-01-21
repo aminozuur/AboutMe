@@ -27,10 +27,16 @@
 * Promote peace
 * Bash the government
 
-**Favorite quote:**
-*"I currently don'thave a favorite quote"* - Amin Eftegarie (2016)
-
 **Contact me:***
 * [Email](mailto:amin@eftegarie.nl)
 * [Twitter](http://twitter.com/aminozuur)
 * [More options](http://amineftegarie.nl/contact)
+
+**Trivia**
+* My username everywhere is 'aminozuur', which means amino acid in Dutch
+* I am incapable of small talk
+* I exerpience above average connection with people who have experienced childhood trauma, or overcame obstacles during teenage years
+
+
+**Favorite quote:**
+*"I currently don'thave a favorite quote"* - Amin Eftegarie (2016)
