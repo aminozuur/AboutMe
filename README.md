@@ -27,7 +27,7 @@
 * Promote peace
 * Bash the government
 
-**Contact me:***
+**Contact me:**
 * [Email](mailto:amin@eftegarie.nl)
 * [Twitter](http://twitter.com/aminozuur)
 * [More options](http://amineftegarie.nl/contact)
@@ -40,4 +40,4 @@
 
 
 **Favorite quote:**
-*"I currently don'thave a favorite quote"* - Amin Eftegarie (2016)
+*"I currently don't have a favorite quote"* - Amin Eftegarie (2016)
