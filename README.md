@@ -1,4 +1,4 @@
-![amin](https://scontent-ams2-1.xx.fbcdn.net/hprofile-xpt1/v/t1.0-1/c482.190.158.158/12118649_10205197623526577_923950768365654850_n.jpg?oh=e7bd833270ff81ad9072e00f37b58713&oe=57116FE8)
+![amin](https://pbs.twimg.com/profile_images/711610939477520385/Yez424l1.jpg)
 
 # A brief introduction to Amin Eftegarie
 
