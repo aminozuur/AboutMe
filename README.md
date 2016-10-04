@@ -28,7 +28,7 @@
 * Bash the government
 
 **Contact me:**
-* [Email](mailto:amin@eftegarie.nl)
+* [Email](mailto:amin@eftegarie.com)
 * [Twitter](http://twitter.com/aminozuur)
 * [More options](http://amineftegarie.nl/contact)
 
