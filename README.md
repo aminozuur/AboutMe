@@ -3,16 +3,14 @@
 # A brief introduction to Amin Eftegarie
 
 **Let's start with some basics:**
-* Name: Amin Eftegarie
 * Location: Amsterdam (suburbs)
 * Age: 26
 
 **I spend my seconds on the following things:**
-* Sleep
 * Web development
 * Human Interface Design
 * Building random tiny webapps
-* Talking to cyberfriends
+* Talking to friends
 
 **My goals are to**
 * Create a popular webapp
@@ -28,16 +26,13 @@
 * Bash the government
 
 **Contact me:**
-* [Email](mailto:amin@eftegarie.com)
+* [Email](mailto:james@eftegarie.com)
 * [Twitter](http://twitter.com/aminozuur)
-* [More options](http://amineftegarie.nl/contact)
 
 **Trivia**
-* My username everywhere is 'aminozuur', which means amino acid in Dutch
 * I have a strange interest for words and definitions
-* I am incapable of small talk
-* I experience above average connection with people who have experienced childhood trauma, or overcame obstacles during teenage years
+* I relate to people who've had to overcome obstacles during their teenage years
 
 
 **Favorite quote:**
-*"I currently don't have a favorite quote"* - Amin Eftegarie (2016)
+*"I currently don't have a favorite quote"*
