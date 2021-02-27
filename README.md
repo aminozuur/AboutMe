@@ -25,10 +25,6 @@
 * Promote peace
 * Bash the government
 
-**Contact me:**
-* [Email](mailto:james@eftegarie.com)
-* [Twitter](http://twitter.com/aminozuur)
-
 **Trivia**
 * I have a strange interest for words and definitions
 * I relate to people who've had to overcome obstacles during their teenage years
